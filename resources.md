@@ -1,3 +1,15 @@
+## Subdisciplines
+- Porgramming Fundamentals
+- Data Structures and Algorithms
+- OOP
+- Software Design
+- Databases
+- Programming Languages / Compilers
+- Programming Paradigms
+- Cryptography
+- Blockchain
+- Computer Networks
+
 ## University Courses
 
 ### Software Design
